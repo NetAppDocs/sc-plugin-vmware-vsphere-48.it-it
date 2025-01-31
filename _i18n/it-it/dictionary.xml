@@ -194,7 +194,6 @@ Variabile passata in prescritture e postscript.</block>
   <block id="af6d7d31c35cf99b12c13a1c1f334d32" category="paragraph"><block ref="3d6deff69cb4148925c5d031dca2f3e7" prefix="" category="inline-code"></block></block>
   <block id="28ff5670512ab81bbe557d7ff7a34382" category="paragraph"><block ref="61ffab90e3574ac278783a2a7668f01f" prefix="" category="inline-code"></block></block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">Il plug-in SnapCenter per VMware vSphere (SCV) è un'appliance virtuale basata su Linux. In quanto standalone, offre operazioni di backup e ripristino rapide, efficienti in termini di spazio, coerenti con i crash e coerenti con le macchine virtuali per macchine virtuali, archivi dati e VMDK. Funziona anche con il server SnapCenter per supportare operazioni di backup e ripristino basate su applicazioni in ambienti VMware per plug-in specifici dell'applicazione SnapCenter.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">Plug-in SnapCenter per la documentazione di VMware vSphere</block>
   <block id="af5eb3f6323875097e7bb24b26d6173d" category="summary">È possibile ripristinare i VMDK esistenti, o i VMDK cancellati o scollegati, da un backup primario o secondario di macchine virtuali tradizionali o vVol.</block>
   <block id="8a27845eda3dc9db5703ac822013a97b" category="doc">Ripristinare i VMDK dai backup</block>
   <block id="28986121df861fb247edecf736ca8965" category="paragraph">È possibile ripristinare uno o più dischi di macchine virtuali (VMDK) su una macchina virtuale nello stesso datastore.</block>
@@ -2393,7 +2392,6 @@ Facoltativamente, passare il *policyID* del passaggio 2 e inserire i dettagli de
   <block id="c257f5c852c12409e63afb17104f69c5" category="sidebar">API REST</block>
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Flussi di lavoro delle API REST per modificare le pianificazioni integrate</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Eseguire l'aggiornamento a una nuova patch della stessa release</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">Plug-in SnapCenter per VMware vSphere</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -2402,4 +2400,5 @@ Facoltativamente, passare il *policyID* del passaggio 2 e inserire i dettagli de
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="760b8cb1a553fbe09568e1e4a36f3d07" category="sidebar">Documentazione del plug-in SnapCenter per VMware vSphere 4,8</block>
 </blocks>
